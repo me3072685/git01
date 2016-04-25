@@ -5,8 +5,9 @@ import java.util.Date;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("时间："+new Date());
-        System.out.println("改了");
+        int a=3;
+        int b = 4;
+        System.out println(a+b);
 	} 
 
 }
